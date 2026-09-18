@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1789733518 source:c:\users\aluno\documents\thebig_c\recurssao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
