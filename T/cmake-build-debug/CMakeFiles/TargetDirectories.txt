@@ -1,0 +1,3 @@
+C:/Users/aluno/Downloads/T/cmake-build-debug/CMakeFiles/T.dir
+C:/Users/aluno/Downloads/T/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aluno/Downloads/T/cmake-build-debug/CMakeFiles/rebuild_cache.dir

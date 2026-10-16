@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/aluno/Downloads/T/cmake-build-debug",
+  "command": "C:\\Users\\aluno\\AppData\\Local\\Programs\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -g -std=gnu17 -fdiagnostics-color=always -o CMakeFiles\\T.dir\\main.c.obj -c C:\\Users\\aluno\\Downloads\\T\\main.c",
+  "file": "C:/Users/aluno/Downloads/T/main.c",
+  "output": "C:/Users/aluno/Downloads/T/cmake-build-debug/CMakeFiles/T.dir/main.c.obj"
+},
+{
+  "directory": "C:/Users/aluno/Downloads/T/cmake-build-debug",
+  "command": "C:\\Users\\aluno\\AppData\\Local\\Programs\\CLION2~1.1\\bin\\mingw\\bin\\gcc.exe -g -std=gnu17 -fdiagnostics-color=always -o CMakeFiles\\T.dir\\T2.c.obj -c C:\\Users\\aluno\\Downloads\\T\\T2.c",
+  "file": "C:/Users/aluno/Downloads/T/T2.c",
+  "output": "C:/Users/aluno/Downloads/T/cmake-build-debug/CMakeFiles/T.dir/T2.c.obj"
+}
+]
